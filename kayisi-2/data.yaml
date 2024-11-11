@@ -1,0 +1,14 @@
+names:
+- cekirdek
+- kayisi
+- yaprak
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: kayisi-b8ttg
+  url: https://universe.roboflow.com/esin/kayisi-b8ttg/dataset/2
+  version: 2
+  workspace: esin
+test: ../test/images
+train: ../train/images
+val: ../valid/images
